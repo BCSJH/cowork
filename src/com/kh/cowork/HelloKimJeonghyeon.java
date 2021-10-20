@@ -7,5 +7,6 @@ public class HelloKimJeonghyeon {
 	 * */
 	public void test1() {
 		System.out.println("추가해보기1");
+		System.out.println("추가해보기2");
 	}
 }
