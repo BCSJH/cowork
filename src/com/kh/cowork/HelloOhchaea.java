@@ -6,6 +6,6 @@ public class HelloOhchaea {
 	 *@author ohchaea
 	 */
 	public void hoo() {
-			
+		
 	}
 }
