@@ -8,6 +8,11 @@
 </head>
 <body>
 	<h1>cowork</h1>
+<<<<<<< HEAD
+	<h2>프로젝트 가봅시다!</h2>
+
+=======
 	<h2>프로젝트 가봅시다.!</h2>
+>>>>>>> branch 'master' of https://github.com/BCSJH/cowork.git
 </body>
 </html>
